@@ -1,0 +1,2 @@
+#!/bin/bash
+PAGER=cat man -Thtml $1 > $1.html
